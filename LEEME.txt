@@ -1,0 +1,17 @@
+ONRITUAL 1.4 — versión HTML para presentar al cliente
+
+Extrae el ZIP completo y abre index.html con doble clic.
+Mantén index.html, styles.css, app.js y las carpetas de recursos juntos.
+No necesitas instalar Node.js ni iniciar un servidor.
+
+Incluye el diseño de la versión 1.4, fotos locales, galerías desplegables,
+ampliación de fotos, cinta automática y música con pausa y volumen.
+
+Las reservas preparan un correo a c.jonasramirez@gmail.com o un mensaje
+de WhatsApp. El visitante debe completar el envío en su aplicación.
+Esta versión no guarda reservas en una base de datos ni envía correos
+automáticos. El registro de cuentas y la validación del descuento requieren
+la aplicación con servidor. El descuento se consulta con el centro.
+
+Google Maps, Instagram, WhatsApp y los enlaces externos requieren Internet.
+Las fuentes se incluyen localmente cuando están disponibles en fonts/.
